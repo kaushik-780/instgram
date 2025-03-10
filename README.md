@@ -1,2 +1,2 @@
-# instgram
+# pogo
 social media
